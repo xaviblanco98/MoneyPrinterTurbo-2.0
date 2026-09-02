@@ -15,6 +15,7 @@ class ProjectState(str, Enum):
     voice = "voice"
     rendering = "rendering"
     quality_control = "quality_control"
+    editorial_review = "editorial_review"
     awaiting_approval = "awaiting_approval"
     approved = "approved"
     rejected = "rejected"
@@ -37,9 +38,12 @@ class JobStatus(str, Enum):
 
 class ApprovalStage(str, Enum):
     idea = "idea"
-    script = "script"
+    research = "research"
     claims = "claims"
+    hook = "hook"
+    script = "script"
     storyboard = "storyboard"
+    package = "package"
     final = "final"
 
 
@@ -121,3 +125,36 @@ class CostUnit(str, Enum):
     requests = "requests"
     seconds = "seconds"
     eur = "eur"
+
+
+class ClaimImportance(str, Enum):
+    critical = "critical"
+    high = "high"
+    medium = "medium"
+    low = "low"
+
+
+class VerificationStatus(str, Enum):
+    unverified = "unverified"
+    supported = "supported"
+    weak = "weak"
+    disputed = "disputed"
+    unsupported = "unsupported"
+
+
+class SourceStatus(str, Enum):
+    candidate = "candidate"
+    accepted = "accepted"
+    rejected = "rejected"
+
+
+class OptionKind(str, Enum):
+    angle = "angle"
+    hook = "hook"
+    structure = "structure"
+
+
+class LLMCallStatus(str, Enum):
+    ok = "ok"
+    error = "error"
+    blocked = "blocked"

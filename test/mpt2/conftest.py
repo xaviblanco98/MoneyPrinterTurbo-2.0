@@ -30,18 +30,28 @@ CHANNEL_PAYLOAD = {
 }
 
 
+BASE_ENV = {
+    "MPT2_ENV": "test",
+    "MPT2_JOB_RETRY_BASE_SECONDS": "0",
+    "MPT2_LLM_BACKEND": "fake",
+    "MPT2_LLM_RETRY_BASE_SECONDS": "0",
+}
+
+
+def make_settings(tmp_path: Path, **extra: str) -> Settings:
+    reset_settings_cache()
+    env = {
+        **BASE_ENV,
+        "MPT2_DB_PATH": str(tmp_path / "db" / "test.sqlite3"),
+        "MPT2_STORAGE_DIR": str(tmp_path / "storage"),
+        **extra,
+    }
+    return Settings.from_env(env, env_file=None)
+
+
 @pytest.fixture
 def settings(tmp_path: Path) -> Settings:
-    reset_settings_cache()
-    return Settings.from_env(
-        {
-            "MPT2_ENV": "test",
-            "MPT2_DB_PATH": str(tmp_path / "db" / "test.sqlite3"),
-            "MPT2_STORAGE_DIR": str(tmp_path / "storage"),
-            "MPT2_JOB_RETRY_BASE_SECONDS": "0",
-        },
-        env_file=None,
-    )
+    return make_settings(tmp_path)
 
 
 @pytest.fixture

@@ -1,0 +1,211 @@
+[
+  {
+    "id": "53efc837aabc49caad69fc49578a9d47",
+    "text": "[FAKE] Claim 0: the figure is 12 percent in the reference year.",
+    "kind": "estimate",
+    "importance": "critical",
+    "confidence": 0.8,
+    "status": "weak",
+    "geographic_scope": "US",
+    "time_period": "2024",
+    "supporting_source_ids": [
+      "c6b58a240af04b78b43e8c2b5c27fcaf"
+    ],
+    "contradicting_source_ids": [],
+    "evidence": [
+      {
+        "source_id": "c6b58a240af04b78b43e8c2b5c27fcaf",
+        "text": "[FAKE] Synthetic evidence fragment stating 12 percent."
+      }
+    ],
+    "used_in_script": true,
+    "human_edited": false,
+    "verification_note": "[FAKE] evidence matches",
+    "notes": null
+  },
+  {
+    "id": "f09610937f5541c98df9cd0e8782b0f0",
+    "text": "[FAKE] Claim 1: the figure is 8 percent in the reference year.",
+    "kind": "fact",
+    "importance": "high",
+    "confidence": 0.8,
+    "status": "weak",
+    "geographic_scope": "US",
+    "time_period": "2024",
+    "supporting_source_ids": [
+      "c6b58a240af04b78b43e8c2b5c27fcaf"
+    ],
+    "contradicting_source_ids": [],
+    "evidence": [
+      {
+        "source_id": "c6b58a240af04b78b43e8c2b5c27fcaf",
+        "text": "[FAKE] Synthetic evidence fragment stating 8 percent."
+      }
+    ],
+    "used_in_script": true,
+    "human_edited": false,
+    "verification_note": "[FAKE] evidence matches",
+    "notes": null
+  },
+  {
+    "id": "4d33cc7c33b147319064fda070cb7417",
+    "text": "[FAKE] Claim 2: the figure is 2,400 dollars in the reference year.",
+    "kind": "fact",
+    "importance": "medium",
+    "confidence": 0.8,
+    "status": "supported",
+    "geographic_scope": "US",
+    "time_period": "2024",
+    "supporting_source_ids": [
+      "58b07ba1322c430c849eee3e76229080"
+    ],
+    "contradicting_source_ids": [],
+    "evidence": [
+      {
+        "source_id": "58b07ba1322c430c849eee3e76229080",
+        "text": "[FAKE] Synthetic evidence fragment stating 2,400 dollars."
+      }
+    ],
+    "used_in_script": true,
+    "human_edited": false,
+    "verification_note": "[FAKE] evidence matches",
+    "notes": null
+  },
+  {
+    "id": "7c79fc9e9804461191c8633752b1006b",
+    "text": "[FAKE] Claim 3: the figure is 2019 in the reference year.",
+    "kind": "fact",
+    "importance": "high",
+    "confidence": 0.8,
+    "status": "weak",
+    "geographic_scope": "US",
+    "time_period": "2024",
+    "supporting_source_ids": [
+      "c6b58a240af04b78b43e8c2b5c27fcaf"
+    ],
+    "contradicting_source_ids": [],
+    "evidence": [
+      {
+        "source_id": "c6b58a240af04b78b43e8c2b5c27fcaf",
+        "text": "[FAKE] Synthetic evidence fragment stating 2019."
+      }
+    ],
+    "used_in_script": true,
+    "human_edited": false,
+    "verification_note": "[FAKE] evidence matches",
+    "notes": null
+  },
+  {
+    "id": "6b3448eedb7f4a909a7432b2970ad40d",
+    "text": "[FAKE] Claim 4: the figure is 3.5 billion in the reference year.",
+    "kind": "estimate",
+    "importance": "medium",
+    "confidence": 0.8,
+    "status": "supported",
+    "geographic_scope": "US",
+    "time_period": "2024",
+    "supporting_source_ids": [
+      "c6b58a240af04b78b43e8c2b5c27fcaf"
+    ],
+    "contradicting_source_ids": [],
+    "evidence": [
+      {
+        "source_id": "c6b58a240af04b78b43e8c2b5c27fcaf",
+        "text": "[FAKE] Synthetic evidence fragment stating 3.5 billion."
+      }
+    ],
+    "used_in_script": true,
+    "human_edited": false,
+    "verification_note": "[FAKE] evidence matches",
+    "notes": null
+  },
+  {
+    "id": "b3c42b973ece45caa4367ed775f2222a",
+    "text": "[FAKE] Claim 5: the figure is 12 percent in the reference year.",
+    "kind": "fact",
+    "importance": "high",
+    "confidence": 0.8,
+    "status": "weak",
+    "geographic_scope": "US",
+    "time_period": "2024",
+    "supporting_source_ids": [
+      "58b07ba1322c430c849eee3e76229080"
+    ],
+    "contradicting_source_ids": [],
+    "evidence": [
+      {
+        "source_id": "58b07ba1322c430c849eee3e76229080",
+        "text": "[FAKE] Synthetic evidence fragment stating 12 percent."
+      }
+    ],
+    "used_in_script": true,
+    "human_edited": false,
+    "verification_note": "[FAKE] evidence matches",
+    "notes": null
+  },
+  {
+    "id": "0d52d552e4154c579cec0b0d8eaa5e66",
+    "text": "[FAKE] Claim 6: the figure is 8 percent in the reference year.",
+    "kind": "fact",
+    "importance": "medium",
+    "confidence": 0.8,
+    "status": "supported",
+    "geographic_scope": "US",
+    "time_period": "2024",
+    "supporting_source_ids": [
+      "c6b58a240af04b78b43e8c2b5c27fcaf"
+    ],
+    "contradicting_source_ids": [],
+    "evidence": [
+      {
+        "source_id": "c6b58a240af04b78b43e8c2b5c27fcaf",
+        "text": "[FAKE] Synthetic evidence fragment stating 8 percent."
+      }
+    ],
+    "used_in_script": true,
+    "human_edited": false,
+    "verification_note": "[FAKE] evidence matches",
+    "notes": null
+  },
+  {
+    "id": "856b1b49cbee42738e1308dea22b7800",
+    "text": "[FAKE] Claim 7: the figure is 2,400 dollars in the reference year.",
+    "kind": "fact",
+    "importance": "high",
+    "confidence": 0.8,
+    "status": "weak",
+    "geographic_scope": "US",
+    "time_period": "2024",
+    "supporting_source_ids": [
+      "c6b58a240af04b78b43e8c2b5c27fcaf"
+    ],
+    "contradicting_source_ids": [],
+    "evidence": [
+      {
+        "source_id": "c6b58a240af04b78b43e8c2b5c27fcaf",
+        "text": "[FAKE] Synthetic evidence fragment stating 2,400 dollars."
+      }
+    ],
+    "used_in_script": true,
+    "human_edited": false,
+    "verification_note": "[FAKE] evidence matches",
+    "notes": null
+  },
+  {
+    "id": "f35f087013ca48cfb2fbffdec47eaa24",
+    "text": "[FAKE] Unsupported claim says 99 percent.",
+    "kind": "fact",
+    "importance": "low",
+    "confidence": 0.3,
+    "status": "unsupported",
+    "geographic_scope": null,
+    "time_period": null,
+    "supporting_source_ids": [],
+    "contradicting_source_ids": [],
+    "evidence": [],
+    "used_in_script": false,
+    "human_edited": false,
+    "verification_note": null,
+    "notes": "numeric claim without evidence fragment"
+  }
+]

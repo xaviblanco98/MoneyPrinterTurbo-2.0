@@ -1,0 +1,100 @@
+{
+  "project_id": "9861c3dc19404ea2a1ced4ef0effe21e",
+  "run": 1,
+  "title": "The Hidden Business Model of Car Dealerships: Where the Money Is Really Made",
+  "topic": "How car dealerships actually make money: vehicle margins, financing and F&I, service and parts, manufacturer incentives, US vs Europe",
+  "plan": {
+    "central_question": "[FAKE] Where does the money really come from in this business, and does the working title hold?",
+    "subquestions": [
+      "[FAKE] Subquestion about margins",
+      "[FAKE] Subquestion about financing",
+      "[FAKE] Subquestion about products",
+      "[FAKE] Subquestion about warranties",
+      "[FAKE] Subquestion about service",
+      "[FAKE] Subquestion about incentives",
+      "[FAKE] Subquestion about inventory",
+      "[FAKE] Subquestion about geography",
+      "[FAKE] Subquestion about counter-examples"
+    ],
+    "required_information": [
+      "[FAKE] Data needed on margins",
+      "[FAKE] Data needed on financing",
+      "[FAKE] Data needed on products",
+      "[FAKE] Data needed on warranties",
+      "[FAKE] Data needed on service"
+    ],
+    "ideal_sources": [
+      "[FAKE] regulator reports",
+      "[FAKE] industry association statistics",
+      "[FAKE] company filings"
+    ],
+    "misinformation_risks": [
+      "[FAKE] outdated averages presented as current"
+    ],
+    "sensitive_claims": [
+      "[FAKE] claims about specific companies' practices"
+    ],
+    "search_strategy": [
+      {
+        "query": "[FAKE] query 0 margins",
+        "purpose": "[FAKE] cover margins",
+        "subquestion": "margins",
+        "perspective": "industry"
+      },
+      {
+        "query": "[FAKE] query 1 financing",
+        "purpose": "[FAKE] cover financing",
+        "subquestion": "financing",
+        "perspective": "regulator"
+      },
+      {
+        "query": "[FAKE] query 2 products",
+        "purpose": "[FAKE] cover products",
+        "subquestion": "products",
+        "perspective": "industry"
+      },
+      {
+        "query": "[FAKE] query 3 warranties",
+        "purpose": "[FAKE] cover warranties",
+        "subquestion": "warranties",
+        "perspective": "regulator"
+      },
+      {
+        "query": "[FAKE] query 4 service",
+        "purpose": "[FAKE] cover service",
+        "subquestion": "service",
+        "perspective": "industry"
+      },
+      {
+        "query": "[FAKE] query 5 incentives",
+        "purpose": "[FAKE] cover incentives",
+        "subquestion": "incentives",
+        "perspective": "regulator"
+      },
+      {
+        "query": "[FAKE] query 6 inventory",
+        "purpose": "[FAKE] cover inventory",
+        "subquestion": "inventory",
+        "perspective": "industry"
+      },
+      {
+        "query": "[FAKE] query 7 geography",
+        "purpose": "[FAKE] cover geography",
+        "subquestion": "geography",
+        "perspective": "regulator"
+      },
+      {
+        "query": "[FAKE] query 8 counter-examples",
+        "purpose": "[FAKE] cover counter-examples",
+        "subquestion": "counter-examples",
+        "perspective": "industry"
+      }
+    ],
+    "hypotheses_to_test": [
+      "[FAKE] The title is wrong in some markets"
+    ],
+    "title_could_be_wrong_if": [
+      "[FAKE] financing income is smaller than service income"
+    ]
+  }
+}

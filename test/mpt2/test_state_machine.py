@@ -17,6 +17,7 @@ HAPPY_PATH = [
     S.script_draft,
     S.fact_check,
     S.storyboard,
+    S.editorial_review,
     S.assets,
     S.voice,
     S.rendering,
@@ -60,6 +61,9 @@ def test_happy_path_and_history(session, project):
         (S.awaiting_approval, S.completed),
         (S.completed, S.idea),
         (S.rendering, S.idea),
+        (S.storyboard, S.assets),
+        (S.editorial_review, S.completed),
+        (S.editorial_review, S.approved),
     ],
 )
 def test_invalid_jumps_rejected(session, project, start, target):

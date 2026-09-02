@@ -8,6 +8,20 @@ from mpt2.settings import Settings
 from test.mpt2.conftest import CHANNEL_PAYLOAD
 
 
+PATH_TO_REVIEW = [
+    "researching",
+    "script_draft",
+    "fact_check",
+    "storyboard",
+    "editorial_review",
+    "assets",
+    "voice",
+    "rendering",
+    "quality_control",
+    "awaiting_approval",
+]
+
+
 def _channel(client: TestClient) -> dict:
     response = client.post("/api/v2/channels", json=CHANNEL_PAYLOAD)
     assert response.status_code == 201, response.text
@@ -31,7 +45,7 @@ def test_health(client):
     body = client.get("/api/v2/health").json()
     assert body["status"] == "ok"
     assert body["schema_current"] is True
-    assert body["schema_revision"] == "0001"
+    assert body["schema_revision"] == body["schema_head"]
 
 
 def test_channel_crud(client):
@@ -68,24 +82,16 @@ def test_project_lifecycle_via_api(client):
     assert bad.status_code == 409
     assert bad.json()["error"]["code"] == "invalid_transition"
 
-    for target in [
-        "researching",
-        "script_draft",
-        "fact_check",
-        "storyboard",
-        "assets",
-        "voice",
-        "rendering",
-        "quality_control",
-        "awaiting_approval",
-    ]:
+    for target in PATH_TO_REVIEW:
         ok = client.post(
             f"/api/v2/projects/{pid}/transition",
             json={"to_state": target, "actor": "test"},
         )
         assert ok.status_code == 200, ok.text
     assert client.get(f"/api/v2/projects/{pid}").json()["state"] == "awaiting_approval"
-    assert len(client.get(f"/api/v2/projects/{pid}/state").json()["history"]) == 9
+    assert len(client.get(f"/api/v2/projects/{pid}/state").json()["history"]) == len(
+        PATH_TO_REVIEW
+    )
 
     listed = client.get("/api/v2/projects", params={"channel_id": channel["id"]}).json()
     assert [p["id"] for p in listed] == [pid]
@@ -99,17 +105,7 @@ def test_project_lifecycle_via_api(client):
 def test_approval_moves_project_and_is_recorded(client):
     _channel(client)
     pid = _project(client, "test-channel")["id"]
-    for target in [
-        "researching",
-        "script_draft",
-        "fact_check",
-        "storyboard",
-        "assets",
-        "voice",
-        "rendering",
-        "quality_control",
-        "awaiting_approval",
-    ]:
+    for target in PATH_TO_REVIEW:
         client.post(f"/api/v2/projects/{pid}/transition", json={"to_state": target})
 
     early = client.post(
@@ -137,17 +133,7 @@ def test_approval_moves_project_and_is_recorded(client):
 def test_rejection_at_final(client):
     _channel(client)
     pid = _project(client, "test-channel")["id"]
-    for target in [
-        "researching",
-        "script_draft",
-        "fact_check",
-        "storyboard",
-        "assets",
-        "voice",
-        "rendering",
-        "quality_control",
-        "awaiting_approval",
-    ]:
+    for target in PATH_TO_REVIEW:
         client.post(f"/api/v2/projects/{pid}/transition", json={"to_state": target})
     response = client.post(
         f"/api/v2/projects/{pid}/approvals",

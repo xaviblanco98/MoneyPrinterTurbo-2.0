@@ -36,6 +36,30 @@ class UTCDateTime(TypeDecorator):
         return value.replace(tzinfo=timezone.utc)
 
 
+class EnumStr(TypeDecorator):
+    """Store a str-Enum as its value and always return the Enum member on read."""
+
+    impl = String
+    cache_ok = True
+
+    def __init__(self, enum_cls, length: int = 32):
+        super().__init__(length)
+        self.enum_cls = enum_cls
+
+    def process_bind_param(self, value, dialect):
+        if value is None:
+            return None
+        return getattr(value, "value", value)
+
+    def process_result_value(self, value, dialect):
+        if value is None:
+            return None
+        try:
+            return self.enum_cls(value)
+        except ValueError:
+            return value
+
+
 class Base(DeclarativeBase):
     pass
 

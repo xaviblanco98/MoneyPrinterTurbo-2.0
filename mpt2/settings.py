@@ -13,12 +13,13 @@ working without duplicating configuration.
 
 from __future__ import annotations
 
+import json
 import os
 import re
 from pathlib import Path
 from typing import Any, Iterable, Mapping
 
-from pydantic import BaseModel, Field, ValidationError, field_validator
+from pydantic import BaseModel, Field, ValidationError, field_validator, model_validator
 
 from mpt2.errors import SettingsError
 
@@ -86,6 +87,45 @@ class Settings(BaseModel):
     pexels_api_key: str | None = None
     pixabay_api_key: str | None = None
 
+    # --- Anthropic (official SDK). Key only from the environment. ---
+    anthropic_api_key: str | None = None
+    llm_backend: str = Field(
+        default="anthropic", pattern=r"^(anthropic|fake|upstream)$"
+    )
+    # Model per tier; never hard-coded elsewhere. Task -> tier mapping below.
+    model_fast: str = Field(default="claude-haiku-4-5", min_length=1)
+    model_smart: str = Field(default="claude-opus-5", min_length=1)
+    # JSON object {task: "fast"|"smart"} overriding DEFAULT_TASK_TIERS.
+    llm_task_tiers: str = ""
+    # JSON object {task: "<model id>"} overriding the tier for specific tasks.
+    llm_task_models: str = ""
+    # JSON object {task: "low"|"medium"|"high"|"xhigh"|"max"} (effort, models that support it).
+    llm_task_effort: str = ""
+    llm_timeout_seconds: float = Field(default=180.0, ge=5.0, le=1800.0)
+    llm_max_retries: int = Field(default=3, ge=0, le=6)
+    llm_retry_base_seconds: float = Field(default=2.0, ge=0.0, le=60.0)
+    llm_cache_enabled: bool = True
+    # JSON object {model: {"input": usd_per_M, "output": usd_per_M, ...}} extending PRICES.
+    llm_pricing_json: str = ""
+    usd_to_eur: float = Field(default=0.92, gt=0.0, lt=5.0)
+
+    # --- Web research ---
+    web_search_tool_version: str = Field(default="web_search_20250305", min_length=1)
+    web_search_max_uses_per_call: int = Field(default=3, ge=1, le=10)
+    research_max_searches_per_project: int = Field(default=30, ge=1, le=200)
+    research_max_sources: int = Field(default=40, ge=3, le=200)
+    research_min_snippet_chars: int = Field(default=40, ge=0, le=2000)
+    research_domain_policy: str = Field(
+        default="prefer", pattern=r"^(prefer|restrict)$"
+    )
+    research_user_country: str | None = None
+
+    # --- Budget safety limits (EUR). Defaults; admins override in the DB. ---
+    budget_warn_eur: float = Field(default=100.0, gt=0.0)
+    budget_monthly_hard_eur: float = Field(default=1000.0, gt=0.0)
+    budget_project_eur: float = Field(default=30.0, gt=0.0)
+    budget_per_call_eur: float = Field(default=2.0, gt=0.0)
+
     job_max_attempts: int = Field(default=3, ge=1, le=20)
     job_retry_base_seconds: float = Field(default=5.0, ge=0.0, le=3600.0)
     job_stale_lock_seconds: int = Field(default=900, ge=10)
@@ -126,10 +166,46 @@ class Settings(BaseModel):
             )
         return value
 
+    @field_validator(
+        "llm_task_tiers", "llm_task_models", "llm_task_effort", "llm_pricing_json"
+    )
+    @classmethod
+    def _json_object(cls, value: str) -> str:
+        value = value.strip()
+        if not value:
+            return value
+        try:
+            parsed = json.loads(value)
+        except json.JSONDecodeError as exc:
+            raise ValueError(f"must be a JSON object: {exc.msg}") from exc
+        if not isinstance(parsed, dict):
+            raise ValueError("must be a JSON object")
+        return value
+
+    @model_validator(mode="after")
+    def _budget_consistency(self) -> "Settings":
+        if self.budget_project_eur > self.budget_monthly_hard_eur:
+            raise ValueError("budget_project_eur cannot exceed budget_monthly_hard_eur")
+        if self.budget_per_call_eur > self.budget_project_eur:
+            raise ValueError("budget_per_call_eur cannot exceed budget_project_eur")
+        return self
+
+    def task_tiers(self) -> dict[str, str]:
+        return json.loads(self.llm_task_tiers) if self.llm_task_tiers else {}
+
+    def task_models(self) -> dict[str, str]:
+        return json.loads(self.llm_task_models) if self.llm_task_models else {}
+
+    def task_effort(self) -> dict[str, str]:
+        return json.loads(self.llm_task_effort) if self.llm_task_effort else {}
+
+    def pricing_overrides(self) -> dict[str, dict[str, float]]:
+        return json.loads(self.llm_pricing_json) if self.llm_pricing_json else {}
+
     # ------------------------------------------------------------------ load
     @classmethod
     def env_var_name(cls, field: str) -> str:
-        if field in {"pexels_api_key", "pixabay_api_key"}:
+        if field in {"pexels_api_key", "pixabay_api_key", "anthropic_api_key"}:
             return field.upper()
         return f"{ENV_PREFIX}{field.upper()}"
 
@@ -158,7 +234,12 @@ class Settings(BaseModel):
             return cls(**raw)
         except ValidationError as exc:
             problems = "; ".join(
-                f"{cls.env_var_name('.'.join(str(p) for p in e['loc']))}: {e['msg']}"
+                (
+                    cls.env_var_name(".".join(str(p) for p in e["loc"]))
+                    if e["loc"]
+                    else "settings"
+                )
+                + f": {e['msg']}"
                 for e in exc.errors()
             )
             raise SettingsError(f"invalid configuration: {problems}") from exc
@@ -182,6 +263,11 @@ class Settings(BaseModel):
         if self.llm_provider == "ollama" and not self.ollama_base_url:
             problems.append(
                 "MPT2_OLLAMA_BASE_URL is required when MPT2_LLM_PROVIDER=ollama"
+            )
+        if self.llm_backend == "anthropic" and not self.anthropic_api_key:
+            warnings.append(
+                "ANTHROPIC_API_KEY is not set: the editorial pipeline cannot call the LLM "
+                "(set MPT2_LLM_BACKEND=fake for offline tests)"
             )
         if self.llm_provider != "ollama" and not self.llm_api_key:
             warnings.append(

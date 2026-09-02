@@ -11,7 +11,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Any, Protocol, runtime_checkable
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, ConfigDict, Field
 
 # --------------------------------------------------------------- payloads
 
@@ -23,7 +23,36 @@ class SourceCandidate(BaseModel):
     author: str | None = None
     published_at: str | None = None
     snippet: str | None = None
+    snippets: list[str] = Field(default_factory=list)
     reliability: int = Field(default=3, ge=1, le=5)
+    domain: str | None = None
+    page_age: str | None = None
+
+
+class SearchContext(BaseModel):
+    """Per-project context a research provider needs (cost attribution, policy)."""
+
+    model_config = ConfigDict(arbitrary_types_allowed=True)
+
+    session: Any = Field(
+        default=None, exclude=True, description="DB session of the running job"
+    )
+    project_id: str | None = None
+    channel_id: str | None = None
+    stage: str | None = None
+    blocked_domains: list[str] = Field(default_factory=list)
+    allowed_domains: list[str] = Field(default_factory=list)
+    country: str | None = None
+
+
+class SearchResult(BaseModel):
+    query: str
+    provider: str
+    candidates: list[SourceCandidate] = Field(default_factory=list)
+    executed_queries: list[str] = Field(default_factory=list)
+    summary: str = ""
+    cost_eur: float = 0.0
+    error: str | None = None
 
 
 class LLMRequest(BaseModel):
@@ -151,8 +180,8 @@ class ResearchProvider(Protocol):
     name: str
 
     def search(
-        self, query: str, *, language: str, limit: int = 10
-    ) -> list[SourceCandidate]: ...
+        self, query: str, *, language: str, context: SearchContext, limit: int = 10
+    ) -> SearchResult: ...
 
 
 @runtime_checkable

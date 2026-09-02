@@ -45,3 +45,22 @@ Las decisiones marcadas *(pendiente)* esperan aprobación del propietario.
 ## ADR-011 · 2026-09-01 · H1 no toca `app/`; los tests nuevos viven en `test/mpt2/`
 - El CI upstream ejecuta `pytest test`, por lo que `test/mpt2/` se ejecuta automáticamente. Se amplían `compileall`/`ruff` del CI a `mpt2` y la cobertura incluye `mpt2`.
 - `uv add` reescribió `uv.lock` al formato de revisión 3 (añade `upload-time`); ninguna versión existente cambió.
+
+## ADR-012 · 2026-09-02 · Política económica de H2: aviso 100 €, límite duro mensual 1.000 €, 30 € por proyecto
+- Contexto: el límite de 150 €/mes deja de ser rígido. Se pueden contratar servicios que mejoren materialmente calidad, velocidad o fiabilidad.
+- Decisión: `BudgetGuard` aplica cuatro límites en EUR comprobados **antes** de cada llamada con estimación de coste máximo: por llamada (2 €), por proyecto (30 €), duro mensual (1.000 €) y aviso mensual (100 €). Se editan por API/CLI (`budget_limits`), nunca se eliminan ni se ponen a cero. Todo gasto queda en `cost_entries` y toda llamada en `llm_calls`.
+- Consecuencias: un modelo sin precio registrado bloquea la llamada; los reintentos están acotados (`MPT2_LLM_MAX_RETRIES`, `job_max_attempts`) y pasan por el guard.
+
+## ADR-013 · 2026-09-02 · API oficial de Anthropic como proveedor LLM e investigación web de H2
+- Decisión: SDK oficial `anthropic` 1.3.0. Modelos configurables por tier y por tarea (`MPT2_MODEL_FAST` por defecto `claude-haiku-4-5` para clasificación/extracción/storyboard; `MPT2_MODEL_SMART` por defecto `claude-opus-5` para plan, dossier, fact-check, ángulos, guion y QC). Salidas estructuradas con `output_config.format`; búsqueda web con la herramienta nativa `web_search` (versión configurable). `ResearchProvider` es un contrato intercambiable: Tavily/Brave podrán añadirse sin tocar el pipeline.
+- Nota: la suscripción de Claude.ai no es crédito de API; se necesita clave de la Console de Anthropic.
+- Alternativas descartadas por ahora: scraping propio (ToS, robots, inyección), búsqueda por SerpAPI (coste sin citas estructuradas).
+- Fallbacks de refusal del lado servidor (`fallbacks`) no se activan en H2; se documenta como opción.
+
+## ADR-014 · 2026-09-02 · Nuevo estado `editorial_review` y reruns versionados por `pipeline_run`
+- Decisión: tras `storyboard`, el proyecto pasa a `editorial_review`; desde ahí un humano aprueba el paquete (→ `assets`), lo rechaza (→ `rejected`) o pide rerun desde una etapa (`researching`, `script_draft`, `fact_check`, `storyboard`). Cada rerun incrementa `pipeline_run`; los artefactos regenerados quedan versionados, los previos se trasladan al nuevo run.
+- Consecuencia: las claves de idempotencia de trabajos incluyen el run; los handlers son idempotentes por artefacto.
+
+## ADR-015 · 2026-09-02 · Telemetría LLM en la misma transacción del trabajo
+- Contexto: SQLite admite un solo escritor; registrar telemetría en una sesión aparte mientras el trabajo mantiene escrituras pendientes producía `database is locked`.
+- Decisión: `LLMClient.call(..., session=)` usa la sesión del trabajo para telemetría, caché y guard; los registros de error/bloqueo se conservan y se reinsertan tras un rollback (`replay_orphans`).

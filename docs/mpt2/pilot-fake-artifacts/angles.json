@@ -1,0 +1,238 @@
+{
+  "angles": [
+    {
+      "id": "04e1e49f176b40ebb805e38caa8ba56e",
+      "kind": "angle",
+      "position": 0,
+      "title": "[FAKE] Angle 0",
+      "text": "[FAKE] Angle option number 0 grounded in claims.",
+      "scores": {
+        "curiosity": 6.0,
+        "clarity": 5.0,
+        "credibility": 7.0,
+        "specificity": 5.0,
+        "originality": 4.0,
+        "retention": 5.0,
+        "evidence_availability": 6.0,
+        "clickbait_risk": 4.0,
+        "legal_risk": 1.0,
+        "channel_fit": 6.0,
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47",
+          "f09610937f5541c98df9cd0e8782b0f0",
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "total_score": 39.0,
+      "rationale": "[FAKE] rationale",
+      "selected": false,
+      "selected_by": null,
+      "selection_reason": null
+    },
+    {
+      "id": "357773101a434105a004057aa62c5aad",
+      "kind": "angle",
+      "position": 1,
+      "title": "[FAKE] Angle 1",
+      "text": "[FAKE] Angle option number 1 grounded in claims.",
+      "scores": {
+        "curiosity": 7.0,
+        "clarity": 6.0,
+        "credibility": 8.0,
+        "specificity": 6.0,
+        "originality": 5.0,
+        "retention": 6.0,
+        "evidence_availability": 7.0,
+        "clickbait_risk": 3.0,
+        "legal_risk": 1.0,
+        "channel_fit": 7.0,
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47",
+          "f09610937f5541c98df9cd0e8782b0f0",
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "total_score": 48.0,
+      "rationale": "[FAKE] rationale",
+      "selected": true,
+      "selected_by": "system",
+      "selection_reason": "[FAKE] best balance of curiosity and evidence"
+    },
+    {
+      "id": "29b9b62811984be68337e177ad0a422e",
+      "kind": "angle",
+      "position": 2,
+      "title": "[FAKE] Angle 2",
+      "text": "[FAKE] Angle option number 2 grounded in claims.",
+      "scores": {
+        "curiosity": 8.0,
+        "clarity": 7.0,
+        "credibility": 9.0,
+        "specificity": 7.0,
+        "originality": 6.0,
+        "retention": 7.0,
+        "evidence_availability": 8.0,
+        "clickbait_risk": 2.0,
+        "legal_risk": 1.0,
+        "channel_fit": 8.0,
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47",
+          "f09610937f5541c98df9cd0e8782b0f0",
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "total_score": 57.0,
+      "rationale": "[FAKE] rationale",
+      "selected": false,
+      "selected_by": null,
+      "selection_reason": null
+    },
+    {
+      "id": "404bb24afaed41d1bcc83d290981ac12",
+      "kind": "angle",
+      "position": 3,
+      "title": "[FAKE] Angle 3",
+      "text": "[FAKE] Angle option number 3 grounded in claims.",
+      "scores": {
+        "curiosity": 9.0,
+        "clarity": 8.0,
+        "credibility": 10.0,
+        "specificity": 8.0,
+        "originality": 7.0,
+        "retention": 8.0,
+        "evidence_availability": 9.0,
+        "clickbait_risk": 1.0,
+        "legal_risk": 1.0,
+        "channel_fit": 9.0,
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47",
+          "f09610937f5541c98df9cd0e8782b0f0",
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "total_score": 66.0,
+      "rationale": "[FAKE] rationale",
+      "selected": false,
+      "selected_by": null,
+      "selection_reason": null
+    },
+    {
+      "id": "9d49918e35d447dbb1f86b9b17fe68bc",
+      "kind": "angle",
+      "position": 4,
+      "title": "[FAKE] Angle 4",
+      "text": "[FAKE] Angle option number 4 grounded in claims.",
+      "scores": {
+        "curiosity": 10.0,
+        "clarity": 9.0,
+        "credibility": 10.0,
+        "specificity": 9.0,
+        "originality": 8.0,
+        "retention": 9.0,
+        "evidence_availability": 10.0,
+        "clickbait_risk": 4.0,
+        "legal_risk": 1.0,
+        "channel_fit": 10.0,
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47",
+          "f09610937f5541c98df9cd0e8782b0f0",
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "total_score": 70.0,
+      "rationale": "[FAKE] rationale",
+      "selected": false,
+      "selected_by": null,
+      "selection_reason": null
+    }
+  ],
+  "structures": [
+    {
+      "id": "f68ca78808794e8ca0fe73cec140993e",
+      "kind": "structure",
+      "position": 0,
+      "title": "[FAKE] Structure 0",
+      "text": "[FAKE] Structure option number 0 grounded in claims.",
+      "scores": {
+        "curiosity": 6.0,
+        "clarity": 5.0,
+        "credibility": 7.0,
+        "specificity": 5.0,
+        "originality": 4.0,
+        "retention": 5.0,
+        "evidence_availability": 6.0,
+        "clickbait_risk": 4.0,
+        "legal_risk": 1.0,
+        "channel_fit": 6.0,
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47",
+          "f09610937f5541c98df9cd0e8782b0f0",
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "total_score": 39.0,
+      "rationale": "[FAKE] rationale",
+      "selected": true,
+      "selected_by": "system",
+      "selection_reason": "[FAKE] best balance of curiosity and evidence"
+    },
+    {
+      "id": "de211513ebdd45e9a8287d73b92aefd9",
+      "kind": "structure",
+      "position": 1,
+      "title": "[FAKE] Structure 1",
+      "text": "[FAKE] Structure option number 1 grounded in claims.",
+      "scores": {
+        "curiosity": 7.0,
+        "clarity": 6.0,
+        "credibility": 8.0,
+        "specificity": 6.0,
+        "originality": 5.0,
+        "retention": 6.0,
+        "evidence_availability": 7.0,
+        "clickbait_risk": 3.0,
+        "legal_risk": 1.0,
+        "channel_fit": 7.0,
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47",
+          "f09610937f5541c98df9cd0e8782b0f0",
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "total_score": 48.0,
+      "rationale": "[FAKE] rationale",
+      "selected": false,
+      "selected_by": null,
+      "selection_reason": null
+    },
+    {
+      "id": "40b0d55852944b2fb4ae8b6ae5452688",
+      "kind": "structure",
+      "position": 2,
+      "title": "[FAKE] Structure 2",
+      "text": "[FAKE] Structure option number 2 grounded in claims.",
+      "scores": {
+        "curiosity": 8.0,
+        "clarity": 7.0,
+        "credibility": 9.0,
+        "specificity": 7.0,
+        "originality": 6.0,
+        "retention": 7.0,
+        "evidence_availability": 8.0,
+        "clickbait_risk": 2.0,
+        "legal_risk": 1.0,
+        "channel_fit": 8.0,
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47",
+          "f09610937f5541c98df9cd0e8782b0f0",
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "total_score": 57.0,
+      "rationale": "[FAKE] rationale",
+      "selected": false,
+      "selected_by": null,
+      "selection_reason": null
+    }
+  ]
+}

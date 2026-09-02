@@ -23,9 +23,13 @@ class FakeResearch:
     name = "fake-research"
 
     def search(
-        self, query: str, *, language: str, limit: int = 10
-    ) -> list[c.SourceCandidate]:
-        return [c.SourceCandidate(url="https://example.org", title=query)]
+        self, query: str, *, language: str, context: c.SearchContext, limit: int = 10
+    ) -> c.SearchResult:
+        return c.SearchResult(
+            query=query,
+            provider=self.name,
+            candidates=[c.SourceCandidate(url="https://example.org", title=query)],
+        )
 
 
 class FakeFactChecker:

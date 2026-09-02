@@ -1,0 +1,4117 @@
+{
+  "id": "aa5c0ae6c1cb4cdd8f11637614997a47",
+  "aspect": "16:9",
+  "total_est_duration_s": 506.0,
+  "scenes": [
+    {
+      "id": "e4c6d05bb2ad4344a4fcba023212ab41",
+      "position": 0,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "cca6488dcb3940d1a6a8de5834375fbe",
+      "position": 1,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "23ca7cc509514429872baa66250efdef",
+      "position": 2,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "32da655104ea4c2f9a34b1a88c5fc79c",
+      "position": 3,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "3e04ed2268cf4d23b9be80c3f898cb1f",
+      "position": 4,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "aaec28bd47c5495aa697412413430fba",
+      "position": 5,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "4071b420172e449cb6725d771e61cc0c",
+      "position": 6,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "57e9c1aea76c4deca810085552306eb4",
+      "position": 7,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "5de9a643d3f24a55b49209bec26dc088",
+      "position": 8,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e57978b974024fbf9d1b2e00d53db308",
+      "position": 9,
+      "section_id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "5ef8530ab1f04ae7adf622d6fa98dffc",
+      "position": 10,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "f61debbb55004151bf0ad12526389769",
+      "position": 11,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e5c11c611120447392b794bef76e5de5",
+      "position": 12,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "a6ef849cbdf5414fbfc8f3acc14aa669",
+      "position": 13,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "9acdad9b42c542158058d539b57f5fde",
+      "position": 14,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "333be1b1125142e3ba6b8cea65ea2086",
+      "position": 15,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d4e71e68806c4c089da3ceaff882c37b",
+      "position": 16,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "ddc4855261d0447091eef5f196792ebd",
+      "position": 17,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "8183dcec43af41d8bebef22ca52cb736",
+      "position": 18,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "12cd4addc3be4c18984c29eeb2979f95",
+      "position": 19,
+      "section_id": "54bbd96d40474af3abba981aadf6d519",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "851cfc67a5224cb4b85346a821fe6188",
+      "position": 20,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "edcb81e8e009445da0c5e60a7a1f0d00",
+      "position": 21,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d696280bcb9d4919a26e3ab8b06781fe",
+      "position": 22,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "025d8afa16404e22967bfcf7f4f37c13",
+      "position": 23,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "517b207fb25a4431947b8e9f496a66cb",
+      "position": 24,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "91876ae8d3ba4562bea500edc00be211",
+      "position": 25,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "461ae76539414a409bc08112d639f327",
+      "position": 26,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d4a81bf5c9274afcac2dc75979529ed2",
+      "position": 27,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "c9f02fab5f6a47158d67a84e4493a68e",
+      "position": 28,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "5fcfade8b6724cbe958dae34a6845efb",
+      "position": 29,
+      "section_id": "cc8aac81cd2744379d444aef70d32b49",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "35df5a166e964a479ddee0c583389920",
+      "position": 30,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] Claim 3: the figure is 2019 in the reference year.",
+      "est_duration_s": 4.4,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "7c79fc9e9804461191c8633752b1006b"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "28ca4ead0a4147bb997150d18445e276",
+      "position": 31,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "01c37b0784c743a28546aaa3601223f7",
+      "position": 32,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d0dcd57594ce42f2be4649fb5246ca6a",
+      "position": 33,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "7c79fc9e9804461191c8633752b1006b"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "2e0d961a92aa4332938089628197971b",
+      "position": 34,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "c425c388c335410bb94f87bdcd6c0a5f",
+      "position": 35,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "23a8b08c7a6747078f52506dee6f3432",
+      "position": 36,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "7c79fc9e9804461191c8633752b1006b"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "ca9f6436190c4dc88a2c9da63ad469ed",
+      "position": 37,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "34d4e949a1b648598f75b6f768b9b132",
+      "position": 38,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "6b8e841d656b45d5ab0323d7294f02ba",
+      "position": 39,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "7c79fc9e9804461191c8633752b1006b"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "c88e26e3acc8436d80297b583e5c3c9e",
+      "position": 40,
+      "section_id": "02ff33d0772f40a3873cacab36ed20b5",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "b6c09b5a8ab04910ac7013d4e2a2d03b",
+      "position": 41,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] Claim 4: the figure is 3.5 billion in the reference year.",
+      "est_duration_s": 4.8,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "6b3448eedb7f4a909a7432b2970ad40d"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "269b9ff7c27141cc80efeef8a209ea22",
+      "position": 42,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "471f55f14a024187af23982b4af984c5",
+      "position": 43,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "6f62088319b6495fbac9c5efcad0935e",
+      "position": 44,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "6b3448eedb7f4a909a7432b2970ad40d"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "7271b02192bf4a1da79874a47ab42d27",
+      "position": 45,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "db2805570c1846ffb92a1ad97a6404c5",
+      "position": 46,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "9bd2dc9b2d744e4b847d864f869d3e1a",
+      "position": 47,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "6b3448eedb7f4a909a7432b2970ad40d"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "52d627cbf5d1476eb072d80238af25b6",
+      "position": 48,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "cf1d1def26a64469b4bc13972aa3dd1d",
+      "position": 49,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "2cf63e4fd34a4858880866591a16fa1c",
+      "position": 50,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "6b3448eedb7f4a909a7432b2970ad40d"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "a03ca585267a4798bc10a746700ee74f",
+      "position": 51,
+      "section_id": "b5ea5b00aece4030b839d96773faed25",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "78fffacf04be403cacde0b7ef061a151",
+      "position": 52,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] Claim 5: the figure is 12 percent in the reference year.",
+      "est_duration_s": 4.8,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "b3c42b973ece45caa4367ed775f2222a"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "40adcf3df86844cc9b1548531f551265",
+      "position": 53,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "1b50496e4d5145eeaa5946092ca82c6f",
+      "position": 54,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e68b593c63c2472ab464e79acd68f2e6",
+      "position": 55,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "b3c42b973ece45caa4367ed775f2222a"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "f4428325765e4dc9861181622b0b61d7",
+      "position": 56,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "1064bc85e14247e096fba3be2dd9e405",
+      "position": 57,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "b8639b0907d048bba45f3df18589281d",
+      "position": 58,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "b3c42b973ece45caa4367ed775f2222a"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d332515d1b69484381b9bffb66fe9050",
+      "position": 59,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "dc31b50b578045528f04eb36d23d1ce2",
+      "position": 60,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "a5d6ebe9bf4144718c25da657f3a0554",
+      "position": 61,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "b3c42b973ece45caa4367ed775f2222a"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "7d2529245c5a424281607437ac90dca2",
+      "position": 62,
+      "section_id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "0ebb35d60306468789588b803a951be6",
+      "position": 63,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] Claim 6: the figure is 8 percent in the reference year.",
+      "est_duration_s": 4.8,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "0d52d552e4154c579cec0b0d8eaa5e66"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "2a75b541f2954281828f8fc106eaea3a",
+      "position": 64,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "b3fbbb1090954c1195f5ea66b6811bfe",
+      "position": 65,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "28a1cc492ab94aa3a46c44aeb2e6fe63",
+      "position": 66,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "0d52d552e4154c579cec0b0d8eaa5e66"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d18afa0475394a6bbd660b39062a66c9",
+      "position": 67,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d763dc8b8401440c81fe84e7289af245",
+      "position": 68,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d548263633b44fccb2da7c6416699dd3",
+      "position": 69,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "0d52d552e4154c579cec0b0d8eaa5e66"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e05bb634face4c03ad2da7ccef18aef5",
+      "position": 70,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "a976eca7ea5347e2ab554418f2050608",
+      "position": 71,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "efa333dd85e8425899f0d34cc9a236f6",
+      "position": 72,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "0d52d552e4154c579cec0b0d8eaa5e66"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "f44d8d3d0e4e4bb599fdf19b25216e83",
+      "position": 73,
+      "section_id": "4771b8f8428541029f774c33949afc5f",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "737a0dc65bba403aaece8f6594742d24",
+      "position": 74,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] Claim 7: the figure is 2,400 dollars in the reference year.",
+      "est_duration_s": 4.8,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "856b1b49cbee42738e1308dea22b7800"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d975b4b813d240a3bd76be937f9dfd74",
+      "position": 75,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "5493b409120a416a8f5858f8b557a808",
+      "position": 76,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "0ea287095f0d4a11b1d6545a4de0826a",
+      "position": 77,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "856b1b49cbee42738e1308dea22b7800"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "69911f65a2784482aef271165bb292e0",
+      "position": 78,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "9ff0d7dc021749ac86bc6ba939892674",
+      "position": 79,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "0af46567e5134ff283d4cb51077bb9c4",
+      "position": 80,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "856b1b49cbee42738e1308dea22b7800"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "3de479d001114e4fb0cfa1a3146639c9",
+      "position": 81,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "f32501b2d3a24074bf8fed6486bd44a8",
+      "position": 82,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "dc1d30ecc35e47f59611ad26d0b0da0f",
+      "position": 83,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "856b1b49cbee42738e1308dea22b7800"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "8ac2e5e5455d4adc887a318bd55a2f7e",
+      "position": 84,
+      "section_id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e73fbc87108345cc89e0d4c89c96ba66",
+      "position": 85,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] Claim 0: the figure is 12 percent in the reference year.",
+      "est_duration_s": 4.8,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "35de6ee2f982497f81359b0c98d4eacd",
+      "position": 86,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "ef830c6546ec4ffd900c5ac5b1be3d86",
+      "position": 87,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "ee94394137d642af91b65834c58ee84a",
+      "position": 88,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "3e25e12fddc2494c91e0fa385d9adc58",
+      "position": 89,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "cf058dacd883478e91390a068ee9254e",
+      "position": 90,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "47a96d526ab445298d114c6b943fdbeb",
+      "position": 91,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "b8151da9b36343bfa93981bee6c3e412",
+      "position": 92,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "3270391c32de4cb784cbd1a6bb0348b8",
+      "position": 93,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "2cf0d58cdce14be2bb639be078563be7",
+      "position": 94,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "53efc837aabc49caad69fc49578a9d47"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "a99cdbe0ae8748baa7c2e76980885225",
+      "position": 95,
+      "section_id": "7f249c6706894c9c8ae40f3781c96098",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "936c82bcf2e043a6b9e3087a76e03810",
+      "position": 96,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] Claim 1: the figure is 8 percent in the reference year.",
+      "est_duration_s": 4.8,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "f09610937f5541c98df9cd0e8782b0f0"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "67cd1e9368f44fcaa1462b30214d9dbe",
+      "position": 97,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "1fc6b3a1be374f0ba8d2c4658e9b1c9b",
+      "position": 98,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "4deff44d26994f838a3b4ff0317d01ad",
+      "position": 99,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "f09610937f5541c98df9cd0e8782b0f0"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e7231b55e7114a6aa215e1490360c764",
+      "position": 100,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "f805a36005d34a1f8ca84dcaaf496238",
+      "position": 101,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "802e71a58a3d4fc7b37c29eac4a28d1d",
+      "position": 102,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "f09610937f5541c98df9cd0e8782b0f0"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "0b77d27a6594490ebdd0abe73d791404",
+      "position": 103,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d4aca306fa864c4587c31d1ed0790e4b",
+      "position": 104,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e4d96ed34d9f4dc49c7ef758f0e2b7cf",
+      "position": 105,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "f09610937f5541c98df9cd0e8782b0f0"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e86333b61dcb4d0695b0fc3351d6503b",
+      "position": 106,
+      "section_id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "c9f05bcc31dd43a2a94f3c9424dd65c7",
+      "position": 107,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] Claim 2: the figure is 2,400 dollars in the reference year.",
+      "est_duration_s": 4.8,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "afe0c918f5364652b2bfe2bdba165920",
+      "position": 108,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "34c244806b704cfabbda2ecdeb18d008",
+      "position": 109,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e878eebb5b3f4ee8b8e943677544e09a",
+      "position": 110,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "3c6c37123ea045109e8d2ce5f158fac8",
+      "position": 111,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "17c23578b71a4948b579aef4bf285f9a",
+      "position": 112,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "f7f3581772a04452acd5feb61edef7b5",
+      "position": 113,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "1706cfc70d534c76bfc3a35ecc939ef5",
+      "position": 114,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "49f5519a4da243cfbb2d4b318265bb38",
+      "position": 115,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "163b669d3cf74b8e8048313c51b7b160",
+      "position": 116,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": [
+          "4d33cc7c33b147319064fda070cb7417"
+        ]
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "f5f18c5a42364670860e5b3a5f41ab2c",
+      "position": 117,
+      "section_id": "1cc739e9505c4673a2c5d081bab94124",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "7615654b17e64556afd05312ca8207d4",
+      "position": 118,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "4934f7e79ec74ab6b5482321324cdfd9",
+      "position": 119,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "dfce7f5020a14a0ba13e5a04e82ed0c4",
+      "position": 120,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "d4f57f5c9f3942d8941be5f6f0950835",
+      "position": 121,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "32eee524052c4a949c794a7acb206e05",
+      "position": 122,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "0ee75041c1ff43aca1e4685907384888",
+      "position": 123,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "0bcef0c19bd6471e8d79edcfc8113ee6",
+      "position": 124,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "4872bd688fca424b81cf8738a8939f0e",
+      "position": 125,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "3b455df7ce5747ef9457f13d2fa55cdf",
+      "position": 126,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "68e96b02d27045c0917159fe9cb51e62",
+      "position": 127,
+      "section_id": "1dd188d531744cd6b00124806af850cc",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "74ff41b7ebee45078334c8d76bee8210",
+      "position": 128,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "a13cbdf7d33e476ba5b9f3db30b65753",
+      "position": 129,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "093a86e40e954270b576e861c7163c02",
+      "position": 130,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "78d4973be3dd43f3a00dfdc9d0eb7316",
+      "position": 131,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "5b978137eb174e5baa2d2c509a2100bc",
+      "position": 132,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "2cf069818b58469d99e689353abbe8fa",
+      "position": 133,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "32e81c04de8047ada9f26d1210ee6fdb",
+      "position": 134,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "e92ef2a7324645d199df9db6973b27a4",
+      "position": 135,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "a67c269e741f4178ac94098455e82647",
+      "position": 136,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "stock_footage",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": "[FAKE] 12%",
+      "chart_data": null,
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    },
+    {
+      "id": "277c67742de4474c8abe3da0fa04d174",
+      "position": 137,
+      "section_id": "6f15d825191a4fabb0d0ff0792687c31",
+      "narration": "[FAKE] synthetic narration sentence that carries the story forward.",
+      "est_duration_s": 3.6,
+      "narrative_goal": "[FAKE] advance the story",
+      "visual_description": "[FAKE] concrete visual matching the sentence, e.g. a chart or archive photo",
+      "asset_type": "chart",
+      "search_terms": [
+        "[FAKE] term"
+      ],
+      "on_screen_text": null,
+      "chart_data": {
+        "chart_type": "bar",
+        "title": "[FAKE]",
+        "series": [
+          {
+            "label": "a",
+            "value": 12
+          }
+        ],
+        "claim_ids": []
+      },
+      "motion": "slow zoom",
+      "transition": "cut",
+      "claim_ids": [],
+      "source_ids": [],
+      "copyright_risk": "low",
+      "fallback_visual": "[FAKE] animated text",
+      "priority": "normal",
+      "human_edited": false
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "257e9e290355418c9e418b6407471795",
+  "title": "[FAKE] Script title",
+  "run": 1,
+  "status": "draft",
+  "word_count": 1268,
+  "est_duration_s": 507.2,
+  "angle_id": "357773101a434105a004057aa62c5aad",
+  "hook_id": "1ff4a9e49af44fa9955ec04e76035158",
+  "structure_id": "f68ca78808794e8ca0fe73cec140993e",
+  "sections": [
+    {
+      "id": "df04d766a66d440e9b5e1ee51bc84c07",
+      "position": 0,
+      "role": "hook",
+      "title": "[FAKE] Section 0 hook",
+      "text": "[FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [],
+      "source_ids": [],
+      "word_count": 90,
+      "est_duration_s": 36.0,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "54bbd96d40474af3abba981aadf6d519",
+      "position": 1,
+      "role": "promise",
+      "title": "[FAKE] Section 1 promise",
+      "text": "[FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [],
+      "source_ids": [],
+      "word_count": 90,
+      "est_duration_s": 36.0,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "cc8aac81cd2744379d444aef70d32b49",
+      "position": 2,
+      "role": "context",
+      "title": "[FAKE] Section 2 context",
+      "text": "[FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [],
+      "source_ids": [],
+      "word_count": 90,
+      "est_duration_s": 36.0,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "02ff33d0772f40a3873cacab36ed20b5",
+      "position": 3,
+      "role": "development",
+      "title": "[FAKE] Section 3 development",
+      "text": "[FAKE] Claim 3: the figure is 2019 in the reference year. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [
+        "7c79fc9e9804461191c8633752b1006b"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "word_count": 101,
+      "est_duration_s": 40.4,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "b5ea5b00aece4030b839d96773faed25",
+      "position": 4,
+      "role": "reveal",
+      "title": "[FAKE] Section 4 reveal",
+      "text": "[FAKE] Claim 4: the figure is 3.5 billion in the reference year. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [
+        "6b3448eedb7f4a909a7432b2970ad40d"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "word_count": 103,
+      "est_duration_s": 41.2,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "cf2f948e67ac4bf18e123102aa0b5886",
+      "position": 5,
+      "role": "development",
+      "title": "[FAKE] Section 5 development",
+      "text": "[FAKE] Claim 5: the figure is 12 percent in the reference year. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [
+        "b3c42b973ece45caa4367ed775f2222a"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "word_count": 102,
+      "est_duration_s": 40.8,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "4771b8f8428541029f774c33949afc5f",
+      "position": 6,
+      "role": "reveal",
+      "title": "[FAKE] Section 6 reveal",
+      "text": "[FAKE] Claim 6: the figure is 8 percent in the reference year. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [
+        "0d52d552e4154c579cec0b0d8eaa5e66"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "word_count": 102,
+      "est_duration_s": 40.8,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "46bbfc322f634737bd5ac35dd7bce8f1",
+      "position": 7,
+      "role": "development",
+      "title": "[FAKE] Section 7 development",
+      "text": "[FAKE] Claim 7: the figure is 2,400 dollars in the reference year. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [
+        "856b1b49cbee42738e1308dea22b7800"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "word_count": 103,
+      "est_duration_s": 41.2,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "7f249c6706894c9c8ae40f3781c96098",
+      "position": 8,
+      "role": "reveal",
+      "title": "[FAKE] Section 8 reveal",
+      "text": "[FAKE] Claim 0: the figure is 12 percent in the reference year. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "word_count": 102,
+      "est_duration_s": 40.8,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "e64f513befd64e3b8fddc7b9bbff9d27",
+      "position": 9,
+      "role": "development",
+      "title": "[FAKE] Section 9 development",
+      "text": "[FAKE] Claim 1: the figure is 8 percent in the reference year. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [
+        "f09610937f5541c98df9cd0e8782b0f0"
+      ],
+      "source_ids": [
+        "c6b58a240af04b78b43e8c2b5c27fcaf"
+      ],
+      "word_count": 102,
+      "est_duration_s": 40.8,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "1cc739e9505c4673a2c5d081bab94124",
+      "position": 10,
+      "role": "reveal",
+      "title": "[FAKE] Section 10 reveal",
+      "text": "[FAKE] Claim 2: the figure is 2,400 dollars in the reference year. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [
+        "4d33cc7c33b147319064fda070cb7417"
+      ],
+      "source_ids": [
+        "58b07ba1322c430c849eee3e76229080"
+      ],
+      "word_count": 103,
+      "est_duration_s": 41.2,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "1dd188d531744cd6b00124806af850cc",
+      "position": 11,
+      "role": "conclusion",
+      "title": "[FAKE] Section 11 conclusion",
+      "text": "[FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [],
+      "source_ids": [],
+      "word_count": 90,
+      "est_duration_s": 36.0,
+      "needs_verification": false,
+      "human_edited": false
+    },
+    {
+      "id": "6f15d825191a4fabb0d0ff0792687c31",
+      "position": 12,
+      "role": "cta",
+      "title": "[FAKE] Section 12 cta",
+      "text": "[FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward. [FAKE] synthetic narration sentence that carries the story forward.",
+      "claim_ids": [],
+      "source_ids": [],
+      "word_count": 90,
+      "est_duration_s": 36.0,
+      "needs_verification": false,
+      "human_edited": false
+    }
+  ]
+}

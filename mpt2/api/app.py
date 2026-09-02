@@ -28,7 +28,11 @@ from sqlalchemy import select
 
 
 def create_app(
-    settings: Settings | None = None, *, run_migrations: bool = True
+    settings: Settings | None = None,
+    *,
+    run_migrations: bool = True,
+    backend=None,
+    research_provider=None,
 ) -> FastAPI:
     settings = settings or get_settings()
     warnings = settings.validate_runtime()
@@ -44,6 +48,41 @@ def create_app(
     app.state.engine = engine
     app.state.session_factory = session_factory
     app.state.config_warnings = warnings
+
+    # Editorial pipeline (H2): built lazily so an unconfigured LLM never blocks the API.
+    from mpt2.api.editorial import build_router
+    from mpt2.costs.guard import BudgetGuard
+    from mpt2.jobs import JobQueue
+    from mpt2.pipeline.runner import Pipeline, build_context
+    from mpt2.pipeline.worker import Worker
+
+    budget = BudgetGuard(settings)
+    app.state.budget = budget
+    app.state.pipeline = None
+    app.state.worker = None
+
+    def get_pipeline() -> Pipeline:
+        if app.state.pipeline is None:
+            ctx = build_context(
+                settings,
+                session_factory,
+                backend=backend,
+                research=research_provider,
+                budget=budget,
+            )
+            queue = JobQueue(
+                session_factory,
+                max_attempts=settings.job_max_attempts,
+                retry_base_seconds=settings.job_retry_base_seconds,
+                stale_lock_seconds=settings.job_stale_lock_seconds,
+            )
+            app.state.pipeline = Pipeline(ctx, queue)
+            app.state.worker = Worker(queue, session_factory)
+        return app.state.pipeline
+
+    def get_worker() -> Worker:
+        get_pipeline()
+        return app.state.worker
 
     # ------------------------------------------------------- dependencies
     def get_db() -> Iterator[Session]:
@@ -289,4 +328,8 @@ def create_app(
             note=body.note,
         )
 
+    app.include_router(
+        build_router(get_db, get_pipeline, get_worker, lambda: budget, settings),
+        dependencies=protected,
+    )
     return app

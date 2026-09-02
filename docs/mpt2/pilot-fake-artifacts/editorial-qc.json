@@ -1,0 +1,219 @@
+[
+  {
+    "id": "d5eac98b266a4447b6d7a3146bc8f75e",
+    "kind": "fact_check",
+    "passed": true,
+    "total_score": 100.0,
+    "checks": [
+      {
+        "name": "numbers_traceable",
+        "status": "pass",
+        "detail": "0 sections with untraced numbers",
+        "kind": "automatic"
+      },
+      {
+        "name": "no_unsupported_claim_references",
+        "status": "pass",
+        "detail": "0 sections referencing unsupported claims",
+        "kind": "automatic"
+      },
+      {
+        "name": "critical_claims_supported",
+        "status": "pass",
+        "detail": "critical claims used without support: []",
+        "kind": "automatic"
+      },
+      {
+        "name": "duration_in_range",
+        "status": "warn",
+        "detail": "estimated 8.5 min (target 6-8)",
+        "kind": "automatic"
+      }
+    ],
+    "created_at": "2026-09-02 09:44:26.738994+00:00"
+  },
+  {
+    "id": "be8645ed879747a6b8cdb4e6e1c9063c",
+    "kind": "editorial",
+    "passed": true,
+    "total_score": 81.6,
+    "checks": [
+      {
+        "name": "source_count",
+        "status": "pass",
+        "score": 100.0,
+        "detail": "18 accepted sources (0 primary)",
+        "kind": "automatic"
+      },
+      {
+        "name": "primary_source_ratio",
+        "status": "warn",
+        "score": 0.0,
+        "detail": "0 primary of 18",
+        "kind": "automatic"
+      },
+      {
+        "name": "no_banned_domains",
+        "status": "pass",
+        "score": 100.0,
+        "detail": "banned domains in accepted sources: []",
+        "kind": "automatic"
+      },
+      {
+        "name": "claims_verified_ratio",
+        "status": "pass",
+        "score": 88.9,
+        "detail": "3 supported, 8 usable of 9 claims",
+        "kind": "automatic"
+      },
+      {
+        "name": "critical_claims_backed",
+        "status": "pass",
+        "score": 100.0,
+        "detail": "critical claims used without support: []",
+        "kind": "automatic"
+      },
+      {
+        "name": "traceability_numbers",
+        "status": "pass",
+        "score": 100.0,
+        "detail": "8/8 sections with numbers fully traced to claims",
+        "kind": "automatic"
+      },
+      {
+        "name": "traceability_sections",
+        "status": "pass",
+        "score": 61.5,
+        "detail": "8/13 sections cite claims",
+        "kind": "automatic"
+      },
+      {
+        "name": "duration_in_range",
+        "status": "warn",
+        "score": 50.0,
+        "detail": "8.5 min, 1268 words",
+        "kind": "automatic"
+      },
+      {
+        "name": "hook_present_and_short",
+        "status": "pass",
+        "score": 100.0,
+        "detail": "hook words: 90",
+        "kind": "automatic"
+      },
+      {
+        "name": "storyboard_covers_sections",
+        "status": "pass",
+        "score": 100.0,
+        "detail": "13/13 sections have scenes",
+        "kind": "automatic"
+      },
+      {
+        "name": "scene_durations",
+        "status": "pass",
+        "score": 100.0,
+        "detail": "138/138 scenes between 2 and 12 s",
+        "kind": "automatic"
+      },
+      {
+        "name": "storyboard_narration_coverage",
+        "status": "pass",
+        "score": 100.0,
+        "detail": "scene narration words / script words = 1.00",
+        "kind": "automatic"
+      },
+      {
+        "name": "scenes_linked_to_claims",
+        "status": "pass",
+        "score": 63.8,
+        "detail": "88/138 scenes reference claims",
+        "kind": "automatic"
+      },
+      {
+        "name": "copyright_high_risk_scenes",
+        "status": "pass",
+        "score": 100.0,
+        "detail": "0 high-risk scenes",
+        "kind": "automatic"
+      },
+      {
+        "name": "hook_quality",
+        "status": "pass",
+        "score": 80.0,
+        "detail": "[FAKE] subjective assessment",
+        "kind": "llm"
+      },
+      {
+        "name": "clarity",
+        "status": "pass",
+        "score": 80.0,
+        "detail": "[FAKE] subjective assessment",
+        "kind": "llm"
+      },
+      {
+        "name": "estimated_retention",
+        "status": "pass",
+        "score": 80.0,
+        "detail": "[FAKE] subjective assessment",
+        "kind": "llm"
+      },
+      {
+        "name": "originality",
+        "status": "pass",
+        "score": 80.0,
+        "detail": "[FAKE] subjective assessment",
+        "kind": "llm"
+      },
+      {
+        "name": "legal_risk",
+        "status": "pass",
+        "score": 80.0,
+        "detail": "[FAKE] subjective assessment",
+        "kind": "llm"
+      },
+      {
+        "name": "copyright_risk",
+        "status": "pass",
+        "score": 80.0,
+        "detail": "[FAKE] subjective assessment",
+        "kind": "llm"
+      },
+      {
+        "name": "policy_risk",
+        "status": "pass",
+        "score": 80.0,
+        "detail": "[FAKE] subjective assessment",
+        "kind": "llm"
+      },
+      {
+        "name": "storyboard_coherence",
+        "status": "pass",
+        "score": 80.0,
+        "detail": "[FAKE] subjective assessment",
+        "kind": "llm"
+      },
+      {
+        "name": "source_quality",
+        "status": "pass",
+        "score": 80.0,
+        "detail": "[FAKE] subjective assessment",
+        "kind": "llm"
+      },
+      {
+        "name": "editorial_issues",
+        "status": "info",
+        "score": 0,
+        "detail": "[FAKE] issue",
+        "kind": "llm"
+      },
+      {
+        "name": "strengths",
+        "status": "info",
+        "score": 0,
+        "detail": "[FAKE] strength",
+        "kind": "llm"
+      }
+    ],
+    "created_at": "2026-09-02 09:44:26.871137+00:00"
+  }
+]

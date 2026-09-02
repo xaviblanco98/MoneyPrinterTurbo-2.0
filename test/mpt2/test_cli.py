@@ -36,7 +36,8 @@ def test_check_config_reports_invalid_config(monkeypatch, capsys):
 
 def test_migrate_then_import_channel(env, capsys):
     assert main(["--no-env-file", "migrate"]) == 0
-    assert "schema revision: 0001 (head: 0001)" in capsys.readouterr().out
+    head = dbmod.head_revision()
+    assert f"schema revision: {head} (head: {head})" in capsys.readouterr().out
     assert (
         main(
             [

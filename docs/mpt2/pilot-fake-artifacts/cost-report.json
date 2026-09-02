@@ -1,0 +1,259 @@
+{
+  "project_id": "9861c3dc19404ea2a1ced4ef0effe21e",
+  "generated_at": "2026-09-02T09:44:28.266257Z",
+  "total_cost_eur": 0.0,
+  "total_cost_usd": 0.0,
+  "llm_calls": 20,
+  "cache_hits": 0,
+  "web_searches": 0,
+  "tokens_in": 10000,
+  "tokens_out": 6000,
+  "by_task": {
+    "research_plan": {
+      "calls": 1,
+      "cache_hits": 0,
+      "tokens_in": 500,
+      "tokens_out": 300,
+      "web_searches": 0,
+      "cost_eur": 0.0,
+      "errors": 0,
+      "blocked": 0
+    },
+    "dossier": {
+      "calls": 1,
+      "cache_hits": 0,
+      "tokens_in": 500,
+      "tokens_out": 300,
+      "web_searches": 0,
+      "cost_eur": 0.0,
+      "errors": 0,
+      "blocked": 0
+    },
+    "claim_extraction": {
+      "calls": 1,
+      "cache_hits": 0,
+      "tokens_in": 500,
+      "tokens_out": 300,
+      "web_searches": 0,
+      "cost_eur": 0.0,
+      "errors": 0,
+      "blocked": 0
+    },
+    "fact_check": {
+      "calls": 1,
+      "cache_hits": 0,
+      "tokens_in": 500,
+      "tokens_out": 300,
+      "web_searches": 0,
+      "cost_eur": 0.0,
+      "errors": 0,
+      "blocked": 0
+    },
+    "angles_hooks": {
+      "calls": 1,
+      "cache_hits": 0,
+      "tokens_in": 500,
+      "tokens_out": 300,
+      "web_searches": 0,
+      "cost_eur": 0.0,
+      "errors": 0,
+      "blocked": 0
+    },
+    "script_write": {
+      "calls": 1,
+      "cache_hits": 0,
+      "tokens_in": 500,
+      "tokens_out": 300,
+      "web_searches": 0,
+      "cost_eur": 0.0,
+      "errors": 0,
+      "blocked": 0
+    },
+    "storyboard": {
+      "calls": 13,
+      "cache_hits": 0,
+      "tokens_in": 6500,
+      "tokens_out": 3900,
+      "web_searches": 0,
+      "cost_eur": 0.0,
+      "errors": 0,
+      "blocked": 0
+    },
+    "editorial_qc": {
+      "calls": 1,
+      "cache_hits": 0,
+      "tokens_in": 500,
+      "tokens_out": 300,
+      "web_searches": 0,
+      "cost_eur": 0.0,
+      "errors": 0,
+      "blocked": 0
+    }
+  },
+  "by_model_eur": {
+    "fake": 0.0
+  },
+  "cost_entries": [
+    {
+      "provider": "fake:fake",
+      "stage": "research_plan",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.561857+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "research_dossier",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.622039+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "claims_extract",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.634167+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "claims_verify",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.651125+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "angles_hooks",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.699582+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "script_write",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.719484+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.752685+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.760896+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.767200+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.774747+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.783641+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.792705+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.800254+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.807794+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.815547+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.823678+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.831656+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.838327+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "storyboard",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.845041+00:00"
+    },
+    {
+      "provider": "fake:fake",
+      "stage": "editorial_qc",
+      "units": 800.0,
+      "unit_type": "tokens",
+      "est_cost_eur": 0.0,
+      "created_at": "2026-09-02 09:44:26.869824+00:00"
+    }
+  ],
+  "note": "Costs are estimates computed from token usage and the configured price table; reconcile with the Anthropic Console."
+}

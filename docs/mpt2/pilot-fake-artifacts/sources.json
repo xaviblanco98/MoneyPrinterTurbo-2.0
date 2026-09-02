@@ -1,0 +1,515 @@
+[
+  {
+    "id": "c6b58a240af04b78b43e8c2b5c27fcaf",
+    "title": "[FAKE PRIMARY] Official report on [FAKE] query 0 margins",
+    "url": "https://regulator.example.test/reports/fake--query-0-margins",
+    "domain": "regulator.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-01-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Synthetic evidence fragment about [FAKE] query 0 margins from a primary source. Figure: 12 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.576503+00:00",
+    "original_url": "https://regulator.example.test/reports/fake--query-0-margins",
+    "query_id": "9c97d5ccb7fe4d08962f4c4e7b62362f"
+  },
+  {
+    "id": "7e7bd5aef45f443daed7842a1746eeaf",
+    "title": "[FAKE] News article about [FAKE] query 0 margins",
+    "url": "https://news.example.test/articles/fake--query-0-margins",
+    "domain": "news.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-02-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Secondary reporting on [FAKE] query 0 margins. Analysts estimate 8 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.579244+00:00",
+    "original_url": "https://news.example.test/articles/fake--query-0-margins?utm_source=x",
+    "query_id": "9c97d5ccb7fe4d08962f4c4e7b62362f"
+  },
+  {
+    "id": "7e2d94ef5adb40cbad2dd714fcb15abe",
+    "title": "[FAKE] Tabloid take on [FAKE] query 0 margins",
+    "url": "https://tabloid.example.test/fake--query-0-margins",
+    "domain": "tabloid.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": null,
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Sensational claim."
+    ],
+    "status": "rejected",
+    "rejection_reason": "insufficient content (no usable excerpt)",
+    "accessed_at": "2026-09-02 09:44:26.580309+00:00",
+    "original_url": "https://tabloid.example.test/fake--query-0-margins",
+    "query_id": "9c97d5ccb7fe4d08962f4c4e7b62362f"
+  },
+  {
+    "id": "245915fb922f4878a4f9fb872c76cbe3",
+    "title": "[FAKE PRIMARY] Official report on [FAKE] query 1 financing",
+    "url": "https://regulator.example.test/reports/fake--query-1-financing",
+    "domain": "regulator.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-01-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Synthetic evidence fragment about [FAKE] query 1 financing from a primary source. Figure: 12 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.581884+00:00",
+    "original_url": "https://regulator.example.test/reports/fake--query-1-financing",
+    "query_id": "ccaf9f31fba246c3b33b9d7c169e9578"
+  },
+  {
+    "id": "695c6263023445419cc3aa30acebd649",
+    "title": "[FAKE] News article about [FAKE] query 1 financing",
+    "url": "https://news.example.test/articles/fake--query-1-financing",
+    "domain": "news.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-02-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Secondary reporting on [FAKE] query 1 financing. Analysts estimate 8 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.582913+00:00",
+    "original_url": "https://news.example.test/articles/fake--query-1-financing?utm_source=x",
+    "query_id": "ccaf9f31fba246c3b33b9d7c169e9578"
+  },
+  {
+    "id": "d3087affd14344689d029149ccc40034",
+    "title": "[FAKE] Tabloid take on [FAKE] query 1 financing",
+    "url": "https://tabloid.example.test/fake--query-1-financing",
+    "domain": "tabloid.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": null,
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Sensational claim."
+    ],
+    "status": "rejected",
+    "rejection_reason": "insufficient content (no usable excerpt)",
+    "accessed_at": "2026-09-02 09:44:26.583789+00:00",
+    "original_url": "https://tabloid.example.test/fake--query-1-financing",
+    "query_id": "ccaf9f31fba246c3b33b9d7c169e9578"
+  },
+  {
+    "id": "a60867767b54474daf715d82615f0358",
+    "title": "[FAKE PRIMARY] Official report on [FAKE] query 2 products",
+    "url": "https://regulator.example.test/reports/fake--query-2-products",
+    "domain": "regulator.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-01-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Synthetic evidence fragment about [FAKE] query 2 products from a primary source. Figure: 12 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.585235+00:00",
+    "original_url": "https://regulator.example.test/reports/fake--query-2-products",
+    "query_id": "47b8ddf5ea01429aaa596401ae01b013"
+  },
+  {
+    "id": "910890a215dd47e3b6b9d69e5ca7da11",
+    "title": "[FAKE] News article about [FAKE] query 2 products",
+    "url": "https://news.example.test/articles/fake--query-2-products",
+    "domain": "news.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-02-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Secondary reporting on [FAKE] query 2 products. Analysts estimate 8 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.586188+00:00",
+    "original_url": "https://news.example.test/articles/fake--query-2-products?utm_source=x",
+    "query_id": "47b8ddf5ea01429aaa596401ae01b013"
+  },
+  {
+    "id": "3be668efb48e4fd88b907d9d4a8aec51",
+    "title": "[FAKE] Tabloid take on [FAKE] query 2 products",
+    "url": "https://tabloid.example.test/fake--query-2-products",
+    "domain": "tabloid.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": null,
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Sensational claim."
+    ],
+    "status": "rejected",
+    "rejection_reason": "insufficient content (no usable excerpt)",
+    "accessed_at": "2026-09-02 09:44:26.587179+00:00",
+    "original_url": "https://tabloid.example.test/fake--query-2-products",
+    "query_id": "47b8ddf5ea01429aaa596401ae01b013"
+  },
+  {
+    "id": "2f411123396441c0bde55972916ced6b",
+    "title": "[FAKE PRIMARY] Official report on [FAKE] query 3 warranties",
+    "url": "https://regulator.example.test/reports/fake--query-3-warranties",
+    "domain": "regulator.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-01-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Synthetic evidence fragment about [FAKE] query 3 warranties from a primary source. Figure: 12 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.588886+00:00",
+    "original_url": "https://regulator.example.test/reports/fake--query-3-warranties",
+    "query_id": "09a19eb32ca345f5a2c23e4341a939b5"
+  },
+  {
+    "id": "8fd24ea9587043fb92d3f27766c85a4b",
+    "title": "[FAKE] News article about [FAKE] query 3 warranties",
+    "url": "https://news.example.test/articles/fake--query-3-warranties",
+    "domain": "news.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-02-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Secondary reporting on [FAKE] query 3 warranties. Analysts estimate 8 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.589985+00:00",
+    "original_url": "https://news.example.test/articles/fake--query-3-warranties?utm_source=x",
+    "query_id": "09a19eb32ca345f5a2c23e4341a939b5"
+  },
+  {
+    "id": "cf23040f3e6f43b1882aa1a98d5dc1ea",
+    "title": "[FAKE] Tabloid take on [FAKE] query 3 warranties",
+    "url": "https://tabloid.example.test/fake--query-3-warranties",
+    "domain": "tabloid.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": null,
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Sensational claim."
+    ],
+    "status": "rejected",
+    "rejection_reason": "insufficient content (no usable excerpt)",
+    "accessed_at": "2026-09-02 09:44:26.590999+00:00",
+    "original_url": "https://tabloid.example.test/fake--query-3-warranties",
+    "query_id": "09a19eb32ca345f5a2c23e4341a939b5"
+  },
+  {
+    "id": "05388c6a57f849078dd33782fefbe5bf",
+    "title": "[FAKE PRIMARY] Official report on [FAKE] query 4 service",
+    "url": "https://regulator.example.test/reports/fake--query-4-service",
+    "domain": "regulator.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-01-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Synthetic evidence fragment about [FAKE] query 4 service from a primary source. Figure: 12 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.592656+00:00",
+    "original_url": "https://regulator.example.test/reports/fake--query-4-service",
+    "query_id": "f53d5dba6844421eaea7f7b8c26dc1f6"
+  },
+  {
+    "id": "69000110791c4b22b325af19c70dad0a",
+    "title": "[FAKE] News article about [FAKE] query 4 service",
+    "url": "https://news.example.test/articles/fake--query-4-service",
+    "domain": "news.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-02-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Secondary reporting on [FAKE] query 4 service. Analysts estimate 8 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.593638+00:00",
+    "original_url": "https://news.example.test/articles/fake--query-4-service?utm_source=x",
+    "query_id": "f53d5dba6844421eaea7f7b8c26dc1f6"
+  },
+  {
+    "id": "1846d8ed196e49e197d0e78efb07152e",
+    "title": "[FAKE] Tabloid take on [FAKE] query 4 service",
+    "url": "https://tabloid.example.test/fake--query-4-service",
+    "domain": "tabloid.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": null,
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Sensational claim."
+    ],
+    "status": "rejected",
+    "rejection_reason": "insufficient content (no usable excerpt)",
+    "accessed_at": "2026-09-02 09:44:26.594558+00:00",
+    "original_url": "https://tabloid.example.test/fake--query-4-service",
+    "query_id": "f53d5dba6844421eaea7f7b8c26dc1f6"
+  },
+  {
+    "id": "202df99b56d94ca2abd5f7d0369b3b27",
+    "title": "[FAKE PRIMARY] Official report on [FAKE] query 5 incentives",
+    "url": "https://regulator.example.test/reports/fake--query-5-incentives",
+    "domain": "regulator.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-01-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Synthetic evidence fragment about [FAKE] query 5 incentives from a primary source. Figure: 12 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.596203+00:00",
+    "original_url": "https://regulator.example.test/reports/fake--query-5-incentives",
+    "query_id": "342ee0a5b06f42aa9c03cd2375de2087"
+  },
+  {
+    "id": "dcbaf425f2c1444a8829ce43bce23aa2",
+    "title": "[FAKE] News article about [FAKE] query 5 incentives",
+    "url": "https://news.example.test/articles/fake--query-5-incentives",
+    "domain": "news.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-02-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Secondary reporting on [FAKE] query 5 incentives. Analysts estimate 8 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.597243+00:00",
+    "original_url": "https://news.example.test/articles/fake--query-5-incentives?utm_source=x",
+    "query_id": "342ee0a5b06f42aa9c03cd2375de2087"
+  },
+  {
+    "id": "ae72599f428544068555923420837062",
+    "title": "[FAKE] Tabloid take on [FAKE] query 5 incentives",
+    "url": "https://tabloid.example.test/fake--query-5-incentives",
+    "domain": "tabloid.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": null,
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Sensational claim."
+    ],
+    "status": "rejected",
+    "rejection_reason": "insufficient content (no usable excerpt)",
+    "accessed_at": "2026-09-02 09:44:26.598234+00:00",
+    "original_url": "https://tabloid.example.test/fake--query-5-incentives",
+    "query_id": "342ee0a5b06f42aa9c03cd2375de2087"
+  },
+  {
+    "id": "5014b653930b49e29ca86f473887d643",
+    "title": "[FAKE PRIMARY] Official report on [FAKE] query 6 inventory",
+    "url": "https://regulator.example.test/reports/fake--query-6-inventory",
+    "domain": "regulator.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-01-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Synthetic evidence fragment about [FAKE] query 6 inventory from a primary source. Figure: 12 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.599785+00:00",
+    "original_url": "https://regulator.example.test/reports/fake--query-6-inventory",
+    "query_id": "0b6a12b4ca9a47a49b047f3553e781a0"
+  },
+  {
+    "id": "610aec1f4dcc449e80d59f256ac42f12",
+    "title": "[FAKE] News article about [FAKE] query 6 inventory",
+    "url": "https://news.example.test/articles/fake--query-6-inventory",
+    "domain": "news.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-02-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Secondary reporting on [FAKE] query 6 inventory. Analysts estimate 8 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.600739+00:00",
+    "original_url": "https://news.example.test/articles/fake--query-6-inventory?utm_source=x",
+    "query_id": "0b6a12b4ca9a47a49b047f3553e781a0"
+  },
+  {
+    "id": "8fea9592e89940899acf8629ed8c2944",
+    "title": "[FAKE] Tabloid take on [FAKE] query 6 inventory",
+    "url": "https://tabloid.example.test/fake--query-6-inventory",
+    "domain": "tabloid.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": null,
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Sensational claim."
+    ],
+    "status": "rejected",
+    "rejection_reason": "insufficient content (no usable excerpt)",
+    "accessed_at": "2026-09-02 09:44:26.601624+00:00",
+    "original_url": "https://tabloid.example.test/fake--query-6-inventory",
+    "query_id": "0b6a12b4ca9a47a49b047f3553e781a0"
+  },
+  {
+    "id": "bde8e6d8f7d34d1ea889709c98721d97",
+    "title": "[FAKE PRIMARY] Official report on [FAKE] query 7 geography",
+    "url": "https://regulator.example.test/reports/fake--query-7-geography",
+    "domain": "regulator.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-01-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Synthetic evidence fragment about [FAKE] query 7 geography from a primary source. Figure: 12 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.603075+00:00",
+    "original_url": "https://regulator.example.test/reports/fake--query-7-geography",
+    "query_id": "5ad2944d736c47068d8fa839a0ee8c20"
+  },
+  {
+    "id": "998a8c6926a943ebb92bdae659ef60e6",
+    "title": "[FAKE] News article about [FAKE] query 7 geography",
+    "url": "https://news.example.test/articles/fake--query-7-geography",
+    "domain": "news.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-02-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Secondary reporting on [FAKE] query 7 geography. Analysts estimate 8 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.604050+00:00",
+    "original_url": "https://news.example.test/articles/fake--query-7-geography?utm_source=x",
+    "query_id": "5ad2944d736c47068d8fa839a0ee8c20"
+  },
+  {
+    "id": "14b51f89b5354c068131cc1f024c6422",
+    "title": "[FAKE] Tabloid take on [FAKE] query 7 geography",
+    "url": "https://tabloid.example.test/fake--query-7-geography",
+    "domain": "tabloid.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": null,
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Sensational claim."
+    ],
+    "status": "rejected",
+    "rejection_reason": "insufficient content (no usable excerpt)",
+    "accessed_at": "2026-09-02 09:44:26.604943+00:00",
+    "original_url": "https://tabloid.example.test/fake--query-7-geography",
+    "query_id": "5ad2944d736c47068d8fa839a0ee8c20"
+  },
+  {
+    "id": "693e0e5a820749509680d63a066b53f4",
+    "title": "[FAKE PRIMARY] Official report on [FAKE] query 8 counter-examples",
+    "url": "https://regulator.example.test/reports/fake--query-8-counter-examples",
+    "domain": "regulator.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-01-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Synthetic evidence fragment about [FAKE] query 8 counter-examples from a primary source. Figure: 12 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.606426+00:00",
+    "original_url": "https://regulator.example.test/reports/fake--query-8-counter-examples",
+    "query_id": "f629f7e3b85e4d8ebef941eb678f1266"
+  },
+  {
+    "id": "58b07ba1322c430c849eee3e76229080",
+    "title": "[FAKE] News article about [FAKE] query 8 counter-examples",
+    "url": "https://news.example.test/articles/fake--query-8-counter-examples",
+    "domain": "news.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": "2026-02-01T00:00:00+00:00",
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Secondary reporting on [FAKE] query 8 counter-examples. Analysts estimate 8 percent."
+    ],
+    "status": "accepted",
+    "rejection_reason": null,
+    "accessed_at": "2026-09-02 09:44:26.607438+00:00",
+    "original_url": "https://news.example.test/articles/fake--query-8-counter-examples?utm_source=x",
+    "query_id": "f629f7e3b85e4d8ebef941eb678f1266"
+  },
+  {
+    "id": "72f8598ba6c142d484216ecd5ca2080a",
+    "title": "[FAKE] Tabloid take on [FAKE] query 8 counter-examples",
+    "url": "https://tabloid.example.test/fake--query-8-counter-examples",
+    "domain": "tabloid.example.test",
+    "primary": false,
+    "source_type": "secondary",
+    "date": null,
+    "page_age": null,
+    "reliability": 3,
+    "snippets": [
+      "[FAKE] Sensational claim."
+    ],
+    "status": "rejected",
+    "rejection_reason": "insufficient content (no usable excerpt)",
+    "accessed_at": "2026-09-02 09:44:26.608362+00:00",
+    "original_url": "https://tabloid.example.test/fake--query-8-counter-examples",
+    "query_id": "f629f7e3b85e4d8ebef941eb678f1266"
+  }
+]

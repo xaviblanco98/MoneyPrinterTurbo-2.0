@@ -1,0 +1,292 @@
+[
+  {
+    "id": "5370e6254a224aad9bd88c8f65b74032",
+    "kind": "hook",
+    "position": 0,
+    "title": "[FAKE] Hook 0",
+    "text": "[FAKE] Hook option number 0 grounded in claims.",
+    "scores": {
+      "curiosity": 6.0,
+      "clarity": 5.0,
+      "credibility": 7.0,
+      "specificity": 5.0,
+      "originality": 4.0,
+      "retention": 5.0,
+      "evidence_availability": 6.0,
+      "clickbait_risk": 4.0,
+      "legal_risk": 1.0,
+      "channel_fit": 6.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 39.0,
+    "rationale": "[FAKE] rationale",
+    "selected": false,
+    "selected_by": null,
+    "selection_reason": null
+  },
+  {
+    "id": "9f0b26f7eb1048c4a89414b826e56bbd",
+    "kind": "hook",
+    "position": 1,
+    "title": "[FAKE] Hook 1",
+    "text": "[FAKE] Hook option number 1 grounded in claims.",
+    "scores": {
+      "curiosity": 7.0,
+      "clarity": 6.0,
+      "credibility": 8.0,
+      "specificity": 6.0,
+      "originality": 5.0,
+      "retention": 6.0,
+      "evidence_availability": 7.0,
+      "clickbait_risk": 3.0,
+      "legal_risk": 1.0,
+      "channel_fit": 7.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 48.0,
+    "rationale": "[FAKE] rationale",
+    "selected": false,
+    "selected_by": null,
+    "selection_reason": null
+  },
+  {
+    "id": "1ff4a9e49af44fa9955ec04e76035158",
+    "kind": "hook",
+    "position": 2,
+    "title": "[FAKE] Hook 2",
+    "text": "[FAKE] Hook option number 2 grounded in claims.",
+    "scores": {
+      "curiosity": 8.0,
+      "clarity": 7.0,
+      "credibility": 9.0,
+      "specificity": 7.0,
+      "originality": 6.0,
+      "retention": 7.0,
+      "evidence_availability": 8.0,
+      "clickbait_risk": 2.0,
+      "legal_risk": 1.0,
+      "channel_fit": 8.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 57.0,
+    "rationale": "[FAKE] rationale",
+    "selected": true,
+    "selected_by": "system",
+    "selection_reason": "[FAKE] best balance of curiosity and evidence"
+  },
+  {
+    "id": "b4918ec6c2ea49c5bfb0567666c53523",
+    "kind": "hook",
+    "position": 3,
+    "title": "[FAKE] Hook 3",
+    "text": "[FAKE] Hook option number 3 grounded in claims.",
+    "scores": {
+      "curiosity": 9.0,
+      "clarity": 8.0,
+      "credibility": 10.0,
+      "specificity": 8.0,
+      "originality": 7.0,
+      "retention": 8.0,
+      "evidence_availability": 9.0,
+      "clickbait_risk": 1.0,
+      "legal_risk": 1.0,
+      "channel_fit": 9.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 66.0,
+    "rationale": "[FAKE] rationale",
+    "selected": false,
+    "selected_by": null,
+    "selection_reason": null
+  },
+  {
+    "id": "fca6795c7fbc45c5a0747bde092d2bb1",
+    "kind": "hook",
+    "position": 4,
+    "title": "[FAKE] Hook 4",
+    "text": "[FAKE] Hook option number 4 grounded in claims.",
+    "scores": {
+      "curiosity": 10.0,
+      "clarity": 9.0,
+      "credibility": 10.0,
+      "specificity": 9.0,
+      "originality": 8.0,
+      "retention": 9.0,
+      "evidence_availability": 10.0,
+      "clickbait_risk": 4.0,
+      "legal_risk": 1.0,
+      "channel_fit": 10.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 70.0,
+    "rationale": "[FAKE] rationale",
+    "selected": false,
+    "selected_by": null,
+    "selection_reason": null
+  },
+  {
+    "id": "57f2dc5af1cc428792525bc3480fb0ae",
+    "kind": "hook",
+    "position": 5,
+    "title": "[FAKE] Hook 5",
+    "text": "[FAKE] Hook option number 5 grounded in claims.",
+    "scores": {
+      "curiosity": 6.0,
+      "clarity": 5.0,
+      "credibility": 7.0,
+      "specificity": 5.0,
+      "originality": 4.0,
+      "retention": 5.0,
+      "evidence_availability": 6.0,
+      "clickbait_risk": 3.0,
+      "legal_risk": 1.0,
+      "channel_fit": 6.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 40.0,
+    "rationale": "[FAKE] rationale",
+    "selected": false,
+    "selected_by": null,
+    "selection_reason": null
+  },
+  {
+    "id": "b7e7ba57188a4038a339d930ba1810c7",
+    "kind": "hook",
+    "position": 6,
+    "title": "[FAKE] Hook 6",
+    "text": "[FAKE] Hook option number 6 grounded in claims.",
+    "scores": {
+      "curiosity": 7.0,
+      "clarity": 6.0,
+      "credibility": 8.0,
+      "specificity": 6.0,
+      "originality": 5.0,
+      "retention": 6.0,
+      "evidence_availability": 7.0,
+      "clickbait_risk": 2.0,
+      "legal_risk": 1.0,
+      "channel_fit": 7.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 49.0,
+    "rationale": "[FAKE] rationale",
+    "selected": false,
+    "selected_by": null,
+    "selection_reason": null
+  },
+  {
+    "id": "ff45fd3ba94442738500543b36ffcb9d",
+    "kind": "hook",
+    "position": 7,
+    "title": "[FAKE] Hook 7",
+    "text": "[FAKE] Hook option number 7 grounded in claims.",
+    "scores": {
+      "curiosity": 8.0,
+      "clarity": 7.0,
+      "credibility": 9.0,
+      "specificity": 7.0,
+      "originality": 6.0,
+      "retention": 7.0,
+      "evidence_availability": 8.0,
+      "clickbait_risk": 1.0,
+      "legal_risk": 1.0,
+      "channel_fit": 8.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 58.0,
+    "rationale": "[FAKE] rationale",
+    "selected": false,
+    "selected_by": null,
+    "selection_reason": null
+  },
+  {
+    "id": "6ecf2a7d0a0f4471b04f87ab4aca38d0",
+    "kind": "hook",
+    "position": 8,
+    "title": "[FAKE] Hook 8",
+    "text": "[FAKE] Hook option number 8 grounded in claims.",
+    "scores": {
+      "curiosity": 9.0,
+      "clarity": 8.0,
+      "credibility": 10.0,
+      "specificity": 8.0,
+      "originality": 7.0,
+      "retention": 8.0,
+      "evidence_availability": 9.0,
+      "clickbait_risk": 4.0,
+      "legal_risk": 1.0,
+      "channel_fit": 9.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 63.0,
+    "rationale": "[FAKE] rationale",
+    "selected": false,
+    "selected_by": null,
+    "selection_reason": null
+  },
+  {
+    "id": "69cb23c307c74257b613a6267ae7d459",
+    "kind": "hook",
+    "position": 9,
+    "title": "[FAKE] Hook 9",
+    "text": "[FAKE] Hook option number 9 grounded in claims.",
+    "scores": {
+      "curiosity": 10.0,
+      "clarity": 9.0,
+      "credibility": 10.0,
+      "specificity": 9.0,
+      "originality": 8.0,
+      "retention": 9.0,
+      "evidence_availability": 10.0,
+      "clickbait_risk": 3.0,
+      "legal_risk": 1.0,
+      "channel_fit": 10.0,
+      "claim_ids": [
+        "53efc837aabc49caad69fc49578a9d47",
+        "f09610937f5541c98df9cd0e8782b0f0",
+        "4d33cc7c33b147319064fda070cb7417"
+      ]
+    },
+    "total_score": 71.0,
+    "rationale": "[FAKE] rationale",
+    "selected": false,
+    "selected_by": null,
+    "selection_reason": null
+  }
+]

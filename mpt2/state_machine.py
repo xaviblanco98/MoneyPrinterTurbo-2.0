@@ -20,7 +20,19 @@ TRANSITIONS: dict[S, frozenset[S]] = {
     S.researching: frozenset({S.script_draft, S.failed}),
     S.script_draft: frozenset({S.fact_check, S.failed}),
     S.fact_check: frozenset({S.storyboard, S.script_draft, S.failed}),
-    S.storyboard: frozenset({S.assets, S.failed}),
+    S.storyboard: frozenset({S.editorial_review, S.failed}),
+    # Editorial package review (H2): humans approve to production or send back.
+    S.editorial_review: frozenset(
+        {
+            S.assets,
+            S.researching,
+            S.script_draft,
+            S.fact_check,
+            S.storyboard,
+            S.rejected,
+            S.failed,
+        }
+    ),
     S.assets: frozenset({S.voice, S.failed}),
     S.voice: frozenset({S.rendering, S.failed}),
     S.rendering: frozenset({S.quality_control, S.failed}),
@@ -51,6 +63,7 @@ TRANSITIONS: dict[S, frozenset[S]] = {
             S.voice,
             S.rendering,
             S.quality_control,
+            S.editorial_review,
             S.approved,
         }
     ),
