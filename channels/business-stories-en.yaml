@@ -1,0 +1,34 @@
+# Pilot channel for the MVP. Editorial configuration only; no secrets here.
+slug: business-stories-en
+name: Business Stories
+language: en-US
+country: US
+niche: business, finance and automotive stories about how companies, products and financial decisions made or lost millions
+audience: >
+  English-speaking adults 25-45 interested in business, cars and personal finance,
+  who want to understand how money is really made and lost.
+tone: >
+  Documentary, calm and precise. Curious rather than sensational. Claims are
+  attributed to sources. No hype, no financial advice.
+target_duration_s: 480
+voice: en-US-AndrewNeural
+visual_style: >
+  Clean documentary look: real footage and photos with slow Ken Burns motion,
+  dark neutral palette, white sans-serif on-screen text, simple charts and
+  timelines when numbers matter. Avoid generic stock people shaking hands.
+allowed_sources:
+  - sec.gov
+  - reuters.com
+  - bloomberg.com
+  - ft.com
+  - wsj.com
+  - economist.com
+  - companieshouse.gov.uk
+  - wikipedia.org
+  - annual reports and 10-K filings
+banned_sources:
+  - tabloids
+  - anonymous forums
+  - content farms
+max_budget_eur: 0
+quality_threshold: 75

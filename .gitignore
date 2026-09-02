@@ -42,3 +42,10 @@ htmlcov/
 .codegraph
 /docs/superpowers
 .understand-anything
+
+# mpt2
+.env
+.env.*
+!.env.example
+!test/mpt2/test_*.py
+/storage/mpt2/

@@ -163,7 +163,10 @@ reintenta con el error como feedback (máximo 3) y después escala a humano.
 
 ---
 
-## 5. Proveedores recomendados (presupuesto 0 €)
+## 5. Proveedores recomendados
+
+> **Actualización 2026-09-01 (ADR-010):** el presupuesto de validación pasa de 0 € a **150 €/mes** con límites configurables y bloqueo. Se admiten servicios de pago cuando mejoren de forma material calidad, fiabilidad o velocidad, manteniendo las alternativas gratuitas de la tabla. Previstos para fases posteriores: API de Anthropic, ElevenLabs, VPS Linux europeo y RunPod. No se integran en H1.
+
 
 | Necesidad | Gratuito/local recomendado | Límites | Alternativa de pago | Diferencia | Cuándo pagar |
 |---|---|---|---|---|---|

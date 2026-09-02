@@ -34,6 +34,8 @@ dependencies = [
     "audioop-lts==0.2.2; python_version >= '3.13'",
     "litellm==1.86.2",
     "google-genai==2.11.0",
+    "sqlalchemy==2.0.52",
+    "alembic==1.19.1",
 ]
 
 [project.optional-dependencies]
@@ -54,6 +56,7 @@ dev = [
 [tool.ruff.lint.per-file-ignores]
 # WebUI 需要先把项目根目录加入 sys.path，随后才能导入 app 包。
 "webui/Main.py" = ["E402"]
+"mpt2/migrations/env.py" = ["E402"]
 
 [tool.coverage.run]
 # 统计分支覆盖率可以识别“代码行执行了，但条件的另一条分支从未验证”的情况，
@@ -61,7 +64,7 @@ dev = [
 # 因此与 app 服务层、服务启动入口和面向 Agent 用户发布的 Skill 脚本一起
 # 纳入统计，避免覆盖率只反映局部模块。
 branch = true
-source = ["app", "cli", "webui", "main", "docs/skill"]
+source = ["app", "cli", "webui", "main", "docs/skill", "mpt2"]
 
 [tool.coverage.report]
 # Python 3.11 和 3.13 完整测试的实测分支覆盖率均超过 70.4%。以 70%
